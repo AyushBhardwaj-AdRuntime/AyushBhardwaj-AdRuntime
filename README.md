@@ -7,11 +7,11 @@ I build backend systems, learn by shipping small projects, and keep improving my
 ## Tech Stack
 
 <p align="center">
-	<img src="assets/nodejs.png" alt="Node.js" width="44" height="44" title="Node.js / Express.js" />
-	<img src="assets/mongoDb.png" alt="MongoDB" width="44" height="44" title="MongoDB" />
-	<img src="assets/PostgreSQL.png" alt="PostgreSQL" width="44" height="44" title="PostgreSQL" />
-	<img src="assets/docker.png" alt="Docker" width="44" height="44" title="Docker" />
-	<img src="assets/java.png" alt="Java" width="44" height="44" title="Java" />
+	<img src="assets/uniform/nodejs.png" alt="Node.js" width="56" height="56" title="Node.js / Express.js" hspace="8" />
+	<img src="assets/uniform/mongoDb.png" alt="MongoDB" width="56" height="56" title="MongoDB" hspace="8" />
+	<img src="assets/uniform/PostgreSQL.png" alt="PostgreSQL" width="56" height="56" title="PostgreSQL" hspace="8" />
+	<img src="assets/uniform/docker.png" alt="Docker" width="56" height="56" title="Docker" hspace="8" />
+	<img src="assets/uniform/java.png" alt="Java" width="56" height="56" title="Java" hspace="8" />
 </p>
 
 ## Currently Learning
@@ -30,10 +30,10 @@ I build backend systems, learn by shipping small projects, and keep improving my
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/ayushbhardwaj-dev/">
-		<img src="assets/linkedin.png" alt="LinkedIn" width="42" height="42" />
+		<img src="assets/uniform/linkedin.png" alt="LinkedIn" width="56" height="56" hspace="10" />
 	</a>
 	<a href="mailto:ayushbhardwaj.dev@gmail.com">
-		<img src="assets/gmail.png" alt="Gmail" width="42" height="42" />
+		<img src="assets/uniform/gmail.png" alt="Gmail" width="56" height="56" hspace="10" />
 	</a>
 </p>
 
