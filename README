@@ -6,11 +6,13 @@ I build backend systems, learn by shipping small projects, and keep improving my
 
 ## Tech Stack
 
-- Node.js / Express.js ![Node.js](/assets/nodejs.png)
-- MongoDB ![MongoDB](/assets/mongoDb.png)
-- PostgreSQL ![PostgreSQL](/assets/PostgreSQL.png)
-- Docker ![Docker](/assets/docker.png)
-- Java ![Java](/assets/java.png)
+<p align="center">
+	<img src="assets/nodejs.png" alt="Node.js" width="44" height="44" title="Node.js / Express.js" />
+	<img src="assets/mongoDb.png" alt="MongoDB" width="44" height="44" title="MongoDB" />
+	<img src="assets/PostgreSQL.png" alt="PostgreSQL" width="44" height="44" title="PostgreSQL" />
+	<img src="assets/docker.png" alt="Docker" width="44" height="44" title="Docker" />
+	<img src="assets/java.png" alt="Java" width="44" height="44" title="Java" />
+</p>
 
 ## Currently Learning
 
@@ -26,8 +28,14 @@ I build backend systems, learn by shipping small projects, and keep improving my
 
 ## Contact
 
-[<img src="assets/linkedin.png" alt="LinkedIn" width="42" height="42" />](https://www.linkedin.com/in/ayushbhardwaj-dev/)
-[<img src="assets/gmail.png" alt="Gmail" width="42" height="42" />](mailto:ayushbhardwaj.dev@gmail.com)
+<p align="center">
+	<a href="https://www.linkedin.com/in/ayushbhardwaj-dev/">
+		<img src="assets/linkedin.png" alt="LinkedIn" width="42" height="42" />
+	</a>
+	<a href="mailto:ayushbhardwaj.dev@gmail.com">
+		<img src="assets/gmail.png" alt="Gmail" width="42" height="42" />
+	</a>
+</p>
 
 ## What Would Make This Stronger
 
