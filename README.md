@@ -29,17 +29,12 @@ I build backend systems, learn by shipping small projects, and keep improving my
 ## Contact
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/ayushbhardwaj-dev/">
-		<img src="assets/uniform/linkedin.png" alt="LinkedIn" width="56" height="56" hspace="10" />
+	<a href="https://www.linkedin.com/in/ayushbhardwaj-dev/" style="display:inline-block; vertical-align:middle; margin:0 12px;">
+		<img src="assets/uniform/linkedin.png" alt="LinkedIn" width="64" height="64" style="display:block;" />
 	</a>
-	<a href="mailto:ayushbhardwaj.dev@gmail.com">
-		<img src="assets/uniform/gmail.png" alt="Gmail" width="56" height="56" hspace="10" />
+	<a href="mailto:ayushbhardwaj.dev@gmail.com" style="display:inline-block; vertical-align:middle; margin:0 12px;">
+		<img src="assets/uniform/gmail.png" alt="Gmail" width="64" height="64" style="display:block;" />
 	</a>
 </p>
 
-## What Would Make This Stronger
-
-- Add one-line descriptions for each project.
-- Link every project and contact item.
-- Include a short "Goals" or "Currently building" section.
-- Add GitHub stats or contribution highlights if you want a more visual profile.
+Feel free to connect with me on LinkedIn or drop me an email if you want to collaborate on a project, discuss backend development, or just say hi!
