@@ -1,4 +1,4 @@
-# Hi, I'm Ayush 👋
+# Hi, I'm Ayush 
 
 Backend Developer | Open Source Learner | Backend Enthusiast
 
