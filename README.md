@@ -12,6 +12,11 @@ I build backend systems, learn by shipping small projects, and keep improving my
 	<img src="assets/uniform/PostgreSQL.png" alt="PostgreSQL" width="56" height="56" title="PostgreSQL" hspace="8" />
 	<img src="assets/uniform/docker.png" alt="Docker" width="56" height="56" title="Docker" hspace="8" />
 	<img src="assets/uniform/java.png" alt="Java" width="56" height="56" title="Java" hspace="8" />
+	<img src="assets/uniform/JavaScriptes6.png" alt="Docker" width="56" height="56" title="JavaScript" hspace="8" />
+	<img src="assets/uniform/TypeScript.png" alt="Java" width="56" height="56" title="TypeScript" hspace="8" />
+	<img src="assets/uniform/WebSocket.png" alt="Docker" width="56" height="56" title="WebSocket" hspace="8" />
+	<img src="assets/uniform/Azure.png" alt="Java" width="56" height="56" title="Azure" hspace="8" />
+	
 </p>
 
 ## Currently Learning
